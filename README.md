@@ -1,6 +1,6 @@
 # SwinMGRT
 # PlantCLEF2024-Based Fine-Grained Plant Species Classification Dataset
-
+获取数据集与完整代码模型点击[SwinMGRT](https://github.com/JanieceNg/SwinMGRT)
 本项目构建了一个基于 [PlantCLEF2024](https://www.imageclef.org/PlantCLEF2025) 的植物图像细粒度分类数据集，旨在支持科-属-种三级分类结构的层次化深度学习研究。
 
 ## 📦 数据集概览
